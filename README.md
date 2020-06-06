@@ -1,6 +1,8 @@
 # 4-Color-Genetic-Algorithm
 Using Genetic Algorithm to solve 4-color map problem
 
+Additional - pdf report
+
 Instructions:
 
   python ex2.py -c <crossover> -p <population> -m <mutation>
